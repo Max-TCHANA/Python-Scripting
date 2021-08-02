@@ -1,2 +1,5 @@
 # Python-Scripting
-This is repository for Python activities
+This is a repository for some Python scripting activities ...
+All those scripts have been tested.
+
+Enjoy !
