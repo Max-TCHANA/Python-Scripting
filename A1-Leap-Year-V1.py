@@ -1,4 +1,4 @@
-#this program allows to verify is a year given by a user is a leap year 
+#this program allows to verify if a year given by a user is a leap year 
 import os
 year = input("Please enter a year: ") #we invite the user to enter a year
 #we convert input provided by the user into integer
