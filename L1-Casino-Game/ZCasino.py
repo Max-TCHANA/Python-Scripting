@@ -37,7 +37,7 @@ while continuer_partie: # As long as we have to continue the game
         try:
             mise = int(mise)
         except ValueError:
-            print("Vous n'avez pas saisi de nombre")
+            print("You did not enter a number")
             mise = -1
             continue
         if mise <= 0:
