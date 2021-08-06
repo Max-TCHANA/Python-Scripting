@@ -1,7 +1,8 @@
-*****************
-Rules of the game
-*****************
-the computer chooses a word at random from a list, a word of up to eight letters. 
+			**********************************
+				Rules of the game
+			**********************************
+
+The computer chooses a word at random from a list, a word of up to eight letters. 
 The player tries to find the letters making up the word. With each stroke, he grabs a letter. 
 If the letter is in the word, the computer displays the word with the letters already found. 
 Those which are not yet are replaced by stars (*). The player has 8 chances. Beyond that, he lost.
