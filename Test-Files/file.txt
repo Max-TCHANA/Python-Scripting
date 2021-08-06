@@ -1,0 +1,3 @@
+This is the content of the file. Amazing right ?
+ This is a line written in this file from Python !
+ This is a line written in this file from Python !
